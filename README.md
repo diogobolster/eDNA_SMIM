@@ -25,6 +25,15 @@ Python 3.10 or later.
 
 ## Run the application
 
+**In a browser, nothing to install.** The Python application is published as a browser-only
+(Shinylive) page: https://diogobolster.github.io/eDNA_SMIM/. Python runs inside the page
+(WebAssembly), so no data leaves your computer; the first load fetches about 70 MB and takes
+half a minute, later loads are cached. Daniel's R application is hosted at
+https://dhallack.shinyapps.io/appv6plus/. `build_site.sh` rebuilds the browser edition into
+`site/`, and `.github/workflows/deploy-site.yml` publishes it on every push.
+
+**Locally.**
+
     python -m shiny run --port 7799 edna_py/app.py
     # open http://127.0.0.1:7799
 

@@ -5,3 +5,7 @@ __pycache__/
 .Rhistory
 .Rproj.user/
 *.Rproj
+
+# Shinylive build output (built by build_site.sh / the Pages workflow)
+site/
+_site_src/

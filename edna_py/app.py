@@ -22,6 +22,8 @@ import original as O
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 TEMPLATE_DIR = os.path.join(os.path.dirname(HERE), "app_R")
+if not os.path.isdir(TEMPLATE_DIR):            # shinylive export: templates copied beside app.py
+    TEMPLATE_DIR = os.path.join(HERE, "templates")
 def sid(f):
     """input id safe for Shiny: letters, digits, underscore"""
     return re.sub(r"[^A-Za-z0-9_]", "_", str(f))
