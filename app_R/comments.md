@@ -1,0 +1,4 @@
+**Comments:**  
+The application could be used for other types of components as long as they decay independently in place of particle size.    
+The app employs independent removal rates for various eDNA size categories, as outlined by [Brandao-Dias in 2023](https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13751), to link changes in PSD with the distance between the source point and sampled points.  
+The app employs the reactive Sthocastic Mobile and Immobile (SMIM) model (Schematics(b)) in steady-state conditions as outlined by [Roche 2019](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JG004684).

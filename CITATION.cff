@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "eDNA_SMIM: a web application for interpreting environmental DNA concentration profiles in streams"
+type: software
+authors:
+  - family-names: Hallack
+    given-names: Daniel M. C.
+    affiliation: University of Notre Dame
+  - family-names: Snyder
+    given-names: Elise D.
+    affiliation: University of Notre Dame
+  - family-names: Brandão-Dias
+    given-names: Pedro F. P.
+    affiliation: University of Notre Dame
+  - family-names: Bibby
+    given-names: Kyle
+    affiliation: University of Notre Dame
+  - family-names: Lamberti
+    given-names: Gary A.
+    affiliation: University of Notre Dame
+  - family-names: Tank
+    given-names: Jennifer L.
+    affiliation: University of Notre Dame
+  - family-names: Bolster
+    given-names: Diogo
+    affiliation: University of Notre Dame
+    email: dbolster@nd.edu
+repository-code: "https://github.com/diogobolster/eDNA_SMIM"
+license: MIT
+version: 0.1.0
+date-released: "2026-10-19"
+references:
+  - type: thesis
+    title: "Mixing and Removal Processes in Complex Environmental Flow Systems"
+    authors:
+      - family-names: Hallack
+        given-names: Daniel M. C.
+    institution:
+      name: University of Notre Dame
+    year: 2025
+    doi: 10.7274/28756664.v1

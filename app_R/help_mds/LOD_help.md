@@ -1,0 +1,1 @@
+Estimates the maximum possible distance downstream where a sample could detect the presence of eDNA

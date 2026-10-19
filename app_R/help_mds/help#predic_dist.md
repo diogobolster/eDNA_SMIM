@@ -1,0 +1,1 @@
+Histogram distributions summarize possible solutions information for time or distance from the source to the first sample and for initial concentration or biomass released by the source.

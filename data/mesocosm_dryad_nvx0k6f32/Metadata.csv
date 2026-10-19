@@ -1,0 +1,17 @@
+Column name,Description
+treatment,Combined mesocosm treatment or wether this is a bucket sample (source eDNA water)
+Dark_light,Mesocosm shading treatment If the stream was shaded (Dark) or not (Light)
+Substrate,"Mesocosm substrate treatment. If the stream had no substrate (nosubs), uncolonized substrate (subs) or biofilm-colonized substrate (biofilm)"
+Background,Was this a background sample taken from streams before adding target eDNA?
+mesocosm,Unique mesocosm identifier
+row,Which row of the greenhouse was the mesocosm in
+filter,"Which of the filters from sequential filtration. 10, 10 or 0.2 um for filter sizes, and Total for the sum of the former three."
+hours,How many hours of experiment had passed
+filtered_mL,Volume of water filtered
+Real_volume,How much water was left in the mesocosm at the time of sampling
+Post_Evaporation,Volume after correcting for evaporation and sampling volume (used to calculate the copes per mesocosm)
+Target,Which assay was ussed? Long of Short
+raw_ddPCR,Raw copies  per well observed in ddPCR
+copies_mL,Calculated target eDNA copies per mL of filtered water
+copies_meso,Calculated target eDNA copies per mesocosm
+Proportion,Proportion of particle size within sample

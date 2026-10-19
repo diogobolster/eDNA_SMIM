@@ -1,0 +1,1 @@
+The limit of detection is the minimum eDNA concentration able to be measured in the field.

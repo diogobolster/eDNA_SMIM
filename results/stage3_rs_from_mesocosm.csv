@@ -1,0 +1,7 @@
+target,component,rs_per_h,rs_low_per_h,rs_high_per_h,r2,n,rs_per_s,source
+CARP,1.2,0.08081,0.0599,0.1017,0.8812,12,2.245e-05,Dryad AF (10+1 um)
+CARP,0.4,0.05331,0.03153,0.0751,0.473,30,1.481e-05,Dryad AF 0.4 um
+CARP,total,0.08952,0.07498,0.1041,0.8215,36,2.487e-05,Dryad N (unfiltered)
+STLHD,1.2,0.07693,0.03388,0.12,0.6132,12,2.137e-05,Dryad AF (10+1 um)
+STLHD,0.4,0.1314,0.1093,0.1536,0.8409,30,3.651e-05,Dryad AF 0.4 um
+STLHD,total,0.09048,0.07704,0.1039,0.8464,36,2.513e-05,Dryad N (unfiltered)
